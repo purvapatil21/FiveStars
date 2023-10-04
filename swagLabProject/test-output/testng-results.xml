@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-04T13:54:48 IST" name="Default suite" finished-at="2023-10-04T13:55:12 IST" duration-ms="24307">
+    <groups>
+    </groups>
+    <test started-at="2023-10-04T13:54:48 IST" name="Default test" finished-at="2023-10-04T13:55:12 IST" duration-ms="24307">
+      <class name="com.saucedemo.testLayer.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.saucedemo.testLayer.LoginTest@689604d9]" started-at="2023-10-04T13:54:48 IST" name="setup" finished-at="2023-10-04T13:55:08 IST" duration-ms="20370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithCred()[pri:0, instance:com.saucedemo.testLayer.LoginTest@689604d9]" started-at="2023-10-04T13:55:08 IST" name="verifyLoginWithCred" finished-at="2023-10-04T13:55:09 IST" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithCred -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.saucedemo.testLayer.LoginTest@689604d9]" started-at="2023-10-04T13:55:09 IST" name="end" finished-at="2023-10-04T13:55:12 IST" duration-ms="3044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.saucedemo.testLayer.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
