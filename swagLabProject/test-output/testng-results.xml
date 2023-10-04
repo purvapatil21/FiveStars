@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-04T13:54:48 IST" name="Default suite" finished-at="2023-10-04T13:55:12 IST" duration-ms="24307">
+  <suite started-at="2023-10-04T14:18:13 IST" name="Default suite" finished-at="2023-10-04T14:19:04 IST" duration-ms="51813">
     <groups>
     </groups>
-    <test started-at="2023-10-04T13:54:48 IST" name="Default test" finished-at="2023-10-04T13:55:12 IST" duration-ms="24307">
-      <class name="com.saucedemo.testLayer.LoginTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.saucedemo.testLayer.LoginTest@689604d9]" started-at="2023-10-04T13:54:48 IST" name="setup" finished-at="2023-10-04T13:55:08 IST" duration-ms="20370" status="PASS">
+    <test started-at="2023-10-04T14:18:13 IST" name="Default test" finished-at="2023-10-04T14:19:04 IST" duration-ms="51813">
+      <class name="com.saucedemo.testLayer.HomeTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.saucedemo.testLayer.HomeTest@689604d9]" started-at="2023-10-04T14:18:13 IST" name="setup" finished-at="2023-10-04T14:18:55 IST" duration-ms="42493" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyLoginWithCred()[pri:0, instance:com.saucedemo.testLayer.LoginTest@689604d9]" started-at="2023-10-04T13:55:08 IST" name="verifyLoginWithCred" finished-at="2023-10-04T13:55:09 IST" duration-ms="791" status="PASS">
+        <test-method signature="validateAddToCartButton()[pri:0, instance:com.saucedemo.testLayer.HomeTest@689604d9]" started-at="2023-10-04T14:18:55 IST" name="validateAddToCartButton" finished-at="2023-10-04T14:19:00 IST" duration-ms="4805" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLoginWithCred -->
-        <test-method is-config="true" signature="end()[pri:0, instance:com.saucedemo.testLayer.LoginTest@689604d9]" started-at="2023-10-04T13:55:09 IST" name="end" finished-at="2023-10-04T13:55:12 IST" duration-ms="3044" status="PASS">
+        </test-method> <!-- validateAddToCartButton -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.saucedemo.testLayer.HomeTest@689604d9]" started-at="2023-10-04T14:19:00 IST" name="end" finished-at="2023-10-04T14:19:04 IST" duration-ms="4412" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->
-      </class> <!-- com.saucedemo.testLayer.LoginTest -->
+      </class> <!-- com.saucedemo.testLayer.HomeTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
